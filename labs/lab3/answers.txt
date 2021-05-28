@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: it takes less time then sort3 with sorted files
+
+sort2 uses: merge sort
+
+How do you know?: time of this sort is lowest, particularly in 50000 rows file
+
+sort3 uses: selection sort
+
+How do you know?: it takes more time instead of sort1, random and reversed times are almost similar
